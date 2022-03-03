@@ -1,2 +1,2 @@
 # web
-**[web](http://jaleho.justmakeweb.com)**
+**[jaleho.com](http://jaleho.justmakeweb.com)**
